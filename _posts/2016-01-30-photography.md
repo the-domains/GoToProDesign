@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T21:36:54.440Z'
-dateModified: '2016-01-30T21:36:49.257Z'
+datePublished: '2016-01-30T21:50:16.876Z'
+dateModified: '2016-01-30T21:43:12.424Z'
 title: Photography
 author: []
+sourcePath: _posts/2016-01-30-photography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-photography.md
-published: true
 url: photography/index.html
 _type: Article
 
