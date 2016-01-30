@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-30T21:50:16.972Z'
-dateModified: '2016-01-30T21:43:12.424Z'
+description: "View GoToProDesign's photos | Love photography art! | Edmonton, Alberta commission photography and productions by Ry"
+datePublished: '2016-01-30T21:51:41.813Z'
+dateModified: '2016-01-30T21:51:41.341Z'
 title: Photography
 author: []
 sourcePath: _posts/2016-01-30-photography.md
