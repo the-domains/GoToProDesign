@@ -1,7 +1,7 @@
 name: GoToProDesign
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6766196216922253
+typography_spectrum: 0.75823
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#43362e'
     - '#a47692'
     - '#f8f219'
-  brandStrength: 0.6471797646954656
+  brandStrength: 0.5625
   lightness: 0.9447166968602687
   saturation: 0.7227973560802639
   rhythmicContrast: 0.8704742933623493
