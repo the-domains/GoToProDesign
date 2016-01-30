@@ -1,0 +1,28 @@
+name: GoToProDesign
+favicon: null
+layout_spectrum: 0.1431512264534831
+typography_spectrum: 0.6766196216922253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6471797646954656
+  lightness: 0.9447166968602687
+  saturation: 0.7227973560802639
+  rhythmicContrast: 0.8704742933623493
+purpose: []
