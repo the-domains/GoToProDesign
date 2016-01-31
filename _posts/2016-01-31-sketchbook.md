@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Archived sketches from Ryanwbaran's online portfolio | Raw | GoToProDesign"
-datePublished: '2016-01-31T03:41:26.908Z'
-dateModified: '2016-01-31T03:41:24.846Z'
+datePublished: '2016-01-31T03:46:19.745Z'
+dateModified: '2016-01-31T03:46:17.690Z'
 title: Sketchbook
 author: []
 sourcePath: _posts/2016-01-31-sketchbook.md
@@ -31,6 +31,7 @@ Most of my work starts off as thumbnails - a series of marks in my sketchbook...
 Portfolio
 ![Portfolio](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed9df0a0ea328a71f17f9f4b51bdcb9e9288230b.jpg)
 
-Street Nights
+**Street** nights
+![Street-Nights](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d76f906e-d12f-40d2-8af3-b740c01a1630.jpg)
 
 [0]: null
