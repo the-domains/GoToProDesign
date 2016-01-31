@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Archived sketches from Ryanwbaran's online portfolio | Raw | GoToProDesign"
-datePublished: '2016-01-31T17:54:05.948Z'
-dateModified: '2016-01-31T03:52:54.547Z'
+datePublished: '2016-01-31T17:57:22.550Z'
+dateModified: '2016-01-31T17:57:19.840Z'
 title: Sketchbook
 author: []
 sourcePath: _posts/2016-01-31-sketchbook.md
