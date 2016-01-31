@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: "View GoToProDesign's photos | Love photography art! | Edmonton, Alberta commission photography and productions by Ry"
-datePublished: '2016-01-31T20:28:31.557Z'
-dateModified: '2016-01-31T20:28:25.499Z'
+datePublished: '2016-01-31T20:28:34.748Z'
+dateModified: '2016-01-31T20:28:32.545Z'
 title: Photography
 author: []
 sourcePath: _posts/2016-01-30-photography.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: photography/index.html
-_type: Article
+_type: Blurb
 
 ---
 **PHOTOS **\[INSPIRED\]
