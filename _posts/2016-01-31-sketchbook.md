@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Archived sketches from Ryanwbaran's online portfolio | Raw | GoToProDesign"
-datePublished: '2016-01-31T19:10:58.018Z'
-dateModified: '2016-01-31T18:10:07.731Z'
+datePublished: '2016-01-31T19:30:52.939Z'
+dateModified: '2016-01-31T19:30:50.851Z'
 title: Sketchbook
 author: []
 sourcePath: _posts/2016-01-31-sketchbook.md
@@ -22,7 +22,7 @@ url: sketchbook/index.html
 _type: Article
 
 ---
-## **ARCHIVED **\[SKETCHBOOK\]
+## **ARCHIVED **\[SKETCHES\]
 
 Most of my work starts off as thumbnails - a series of marks in my sketchbook... As you will see I love my work, live my passion and strive for creativity everyday. I created "Lost in Illustration" a long time ago due to the fact I can sit and draw all day and night. I get lost in drawing and let everything go... What I have been doing my whole life as an expressive passion is both my hobby and professional work. I love what I do. What can I draw for you? - Ry
 
