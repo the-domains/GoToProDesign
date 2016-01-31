@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Archived sketches from Ryanwbaran's online portfolio | Raw | GoToProDesign"
-datePublished: '2016-01-31T19:30:52.939Z'
+datePublished: '2016-01-31T19:30:52.937Z'
 dateModified: '2016-01-31T19:30:50.851Z'
 title: Sketchbook
 author: []
