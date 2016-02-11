@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Archived sketches from Ryanwbaran's online portfolio | Raw | GoToProDesign"
-datePublished: '2016-02-11T18:52:28.079Z'
-dateModified: '2016-02-11T18:52:26.580Z'
+datePublished: '2016-02-11T18:55:05.516Z'
+dateModified: '2016-02-11T18:54:55.843Z'
 title: Sketchbook
 author: []
 sourcePath: _posts/2016-01-31-sketchbook.md
@@ -38,7 +38,7 @@ Portfolio
 ![3-Seasons-of-RY-grey](https://the-grid-user-content.s3-us-west-2.amazonaws.com/141902bd-d450-4085-8af8-fb24405fec23.jpg)
 
 **Freestyle** wo...
-![Freestyle-wo1](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c7b4b6-2e3a-44b3-894f-00943aa2988a.jpg)
+![Freestyle-wo1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0d4d7dec2ad469bf74d4624311da03c9e7bdd04.jpg)
 
 **Prisma** fun...
 ![Prisma-fun1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ffc120f93290bc845f9e5ab35dea4afc2a8c975.jpg)
