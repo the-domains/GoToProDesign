@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Archived sketches from Ryanwbaran's online portfolio | Raw | GoToProDesign"
-datePublished: '2016-02-11T16:07:26.301Z'
-dateModified: '2016-02-11T16:07:22.901Z'
+datePublished: '2016-02-11T18:47:32.640Z'
+dateModified: '2016-02-11T18:47:10.421Z'
 title: Sketchbook
 author: []
 sourcePath: _posts/2016-01-31-sketchbook.md
@@ -39,3 +39,9 @@ Portfolio
 
 Freestyle wo...
 ![Freestyle-wo1](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16c7b4b6-2e3a-44b3-894f-00943aa2988a.jpg)
+
+Prisma fun...
+![Prisma-fun1](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ffc120f93290bc845f9e5ab35dea4afc2a8c975.jpg)
+
+Industry 3y3s
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b39a8129-a28e-4753-8f0b-0287b91ff4f0.jpg)
