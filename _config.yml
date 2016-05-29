@@ -1,29 +1,41 @@
-name: GoToProDesign
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75823
 title: 'GoToProDesign | A Visual Communications Studio | Ready and Creative'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.375
+  brandStrength: 0.4375
+  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#282828'
     - '#006dfb'
     - '#535353'
     - '#e34541'
-  brandStrength: 0.4375
   lightness: 0.5625
-  saturation: 0.375
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: GoToProDesign
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.75823
+layout_spectrum: 1
